@@ -10,7 +10,7 @@ I'm **Sedima Mohale**, a passionate developer👩‍💻 eager to explore the wo
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 </div>
 
-###PINNED REPOSITORIES
+### PINNED REPOSITORIES
 - [Sedima18](https://github.com/Sedima18/Sedima18) - My personal repository showcasing various projects and experiments. ⭐ 0
 
 - [Module_10R_SEDMOH24033_PT2409_Group-A_Sedima-Mohale_SDF10_R](https://github.com/Sedima18/Module_10R_SEDMOH24033_PT2409_Group-A_Sedima-Mohale_SDF10_R) - A collaborative project focused on software development. ⭐ 0

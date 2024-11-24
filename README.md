@@ -3,11 +3,12 @@
 I'm **Sedima Mohale**, a passionate developer👩‍💻 eager to explore the world of software development and contribute meaningfully to exciting projects. Let's connect and collaborate!
 
 ### Skills and Technologies
-HTML
-CSS
-JAVA SCRIPT
-TAILWIND CSS
-BOOTSTRAP
+<div align="center">
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+
 
 ###PINNED REPOSITORIES
 - [Sedima18](https://github.com/Sedima18/Sedima18) - My personal repository showcasing various projects and experiments. ⭐ 0

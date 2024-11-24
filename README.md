@@ -14,3 +14,9 @@ Currently am learning Javascript but I developed more love fore CSS.
 </ul>
 
 ### Languages and Tools
+<i class="fa-brands fa-html5"></i>
+<i class="fa-brands fa-css"></i>
+<i class="fa-brands fa-js"></i>
+
+
+

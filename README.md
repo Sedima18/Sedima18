@@ -4,7 +4,7 @@
 
 I'M a student at Codespace Academy Learning  Software Development,
 Currently am learning Javascript but I developed more love fore CSS.
-![CoolWebsiteBroImpressedGIF](https://github.com/user-attachments/assets/50daeb60-1274-4b1e-ae9c-0b6bf6a2c3a3)
+
 
 ### Pinned Respositories
 <ul>
@@ -14,9 +14,11 @@ Currently am learning Javascript but I developed more love fore CSS.
 </ul>
 
 ### Languages and Tools
-<i class="fa-brands fa-html5"></i>
-<i class="fa-brands fa-css"></i>
-<i class="fa-brands fa-js"></i>
 
 
+### Contact Information
+Email:Sedimamohale18@gmail.com
+cellphone:0795874312
+
+###Links to other profile
 

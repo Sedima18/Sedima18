@@ -8,5 +8,6 @@ Currently am learning Javascript but I developed more love fore CSS.![LogoGIF](h
 ### Pinned Respositories
 <ul>
 <li>https://github.com/Sedima18/Module_9R_SEDMOH24033_PT2409_Group-A_Sedima-Mohale_SDF09_R</li>
+<li>https://github.com/Sedima18/Module_7R_SEDMOH24033_PTO204_Group-A_Sedima-Mohale_SDF07_R</li>
 <li></li>
 </ul>
